@@ -2,7 +2,6 @@
 
 You can watch a demo here: 
 ## Pictures
-**The physical design** <br>
 ![All_pics](https://github.com/Neil-Patel-12/Photoresistor_system/assets/108227267/94ee3cfd-4463-419c-bf22-bbf8010ca08d) <br>
 **Circuit Diagram (TinkerCAD circuit)** <br>
 ![CAD_disign](https://github.com/Neil-Patel-12/Photoresistor_system/assets/108227267/727dcf07-ed47-48fe-9cbf-08cf2bc9b58e) <br>
