@@ -2,10 +2,11 @@
 
 You can watch a demo here: 
 ## Pictures
-upload a pic of the RED <br>
-Circuit Diagram (TinkerCAD circuit) <br>
-upload a pic of the circuit <br>
-- This project was coded using the Arduino IDE and its components
+**The physical design** <br>
+![All_pics](https://github.com/Neil-Patel-12/Photoresistor_system/assets/108227267/94ee3cfd-4463-419c-bf22-bbf8010ca08d) <br>
+**Circuit Diagram (TinkerCAD circuit)** <br>
+![CAD_disign](https://github.com/Neil-Patel-12/Photoresistor_system/assets/108227267/727dcf07-ed47-48fe-9cbf-08cf2bc9b58e) <br>
+**The project was coded using the Arduino IDE and its components**
 
 ## User Needs and Personal Research Conduction
 When I bought the Arduino Uno Kit, I didn’t really know how to use many of the components the kit had to offer. But in my research about the functionalities of the components, I realized I can make a simplified version of Solar Panel Pathway Lights to put outside of your house.
