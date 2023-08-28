@@ -1,6 +1,7 @@
 # Photoresistor System
 
-You can watch a demo here: 
+1 Minute YouTive demo here: https://youtube.com/shorts/ahNRX9OBzso?si=bDURmdIfRUzylL2D
+PDF version here: [Photoresistor_system.pdf](https://github.com/Neil-Patel-12/Photoresistor_system/files/12449112/Photoresistor_system.pdf)
 ## Pictures
 ![All_pics](https://github.com/Neil-Patel-12/Photoresistor_system/assets/108227267/94ee3cfd-4463-419c-bf22-bbf8010ca08d) <br>
 **Circuit Diagram (TinkerCAD circuit)** <br>
